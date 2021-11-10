@@ -1,0 +1,14 @@
+.root {
+    background-color: #fefefe;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 28px;
+    margin-top: 0;
+    margin-bottom: 0;
+}

@@ -1,0 +1,18 @@
+.root {
+
+}
+
+.link {
+    display: block;
+    height: 55px;
+    line-height: 55px;
+    text-decoration: none;
+    padding-left: 8px;
+    padding-right: 8px;
+    transition: background-color .3s, color .3s;
+}
+
+.link:hover {
+    background-color: black;
+    color: gold;
+}

@@ -1,5 +1,15 @@
-# React Training
+# React: First app
 
-## Training resources
+## Requirements
+* Node
+* NPM
+* Yarn
 
-* [JSX without React](https://github.com/fmoutawe/react-training/blob/jsx-without-react/README.md)
+## Getting started
+
+Create the app using `create-react-app` CLI tool
+```shell
+yarn create react-app react-first-app
+cd react-first-app
+yarn start
+```
